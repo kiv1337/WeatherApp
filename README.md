@@ -1,5 +1,5 @@
 # WeatherApp
-Weather app w/ OpenWeather API
+React Weather app w/ OpenWeather API
 npm i
 
 npm start
