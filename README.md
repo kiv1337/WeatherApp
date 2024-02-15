@@ -1,5 +1,6 @@
 # WeatherApp
 React Weather app w/ OpenWeather API
+
 npm i
 
 npm start
